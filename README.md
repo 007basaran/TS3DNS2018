@@ -10,7 +10,7 @@ PHP Script - TeamspeakDomainNameServerCreator - TS3DNS2018 - Open Source - Free 
 
 Eğer sitenize direkt olarak çağırmak istiyorsanız html iframe ile yapabilirsiniz :
 
-<iframe name="abbdns" src="http://yourdomainname.tld/abb-tsdns/index.php"  width="790" height="450" frameborder=0 scrolling=no></iframe>
+<iframe name="abbdns" src="http://yourdomainname.tld/abb-dns/index.php"  width="790" height="450" frameborder=0 scrolling=no></iframe>
 
 -- Güvenlik
 
